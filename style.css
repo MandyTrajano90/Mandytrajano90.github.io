@@ -1,0 +1,27 @@
+body {
+    background-color: lightskyblue;
+}
+h1 { 
+    font-size: 30px; text-align: center; font-family: fantasy;
+}
+.posicao-foto {
+    text-align: center;
+}
+h2 {
+    color:darkblue; font-family: fantasy; text-decoration: underline;
+}
+.estilo-texto {
+    font-family: monospace; text-align: justify; font-size: 14px;
+}
+h3 {
+    color: darkblue; font-family: Helvetica; font-size: 18px;
+}
+#habilidades {
+    font-family: monospace; font-weight: bold; font-size: 15px; text-decoration: underline;
+}
+#hobbies {
+    font-family: monospace; font-size: 14px;
+}
+#informacao {
+    font-family: monospace; font-size: 14px; color:darkblue; text-align: justify;
+}
